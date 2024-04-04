@@ -1,0 +1,22 @@
+1. Yosh 14 va 90 orasida EMASligini tekshirish uchun if shartini yozing. 
+2. So'rov bilan tizimga kirishni so'ragan kodni yozing.
+Agar tashrif buyuruvchi "Administrator" ni kiritsa, parolni so'rang, agar kiritish bo'sh string yoki Esc bo'lsa - "Bekor qilingan" ni ko'rsating, agar u boshqa qiymat bo'lsa - "Men sizni tanimayman" ni ko'rsating.
+
+Parol quyidagi tarzda tekshiriladi:
+
+Agar u "TheMaster" ga teng bo'lsa, "Xush kelibsiz!"
+Boshqa string - "Noto'g'ri parol" ko'rsatish,
+Boʻsh qator yoki bekor qilingan bo'lsa, “Bekor qilingan”ni koʻrsatish.
+
+3. For tsiklini while ga o'zgartirgan holda kodni qayta yozing:
+  for (let i = 0; i < 3; i++) {
+    alert( `number ${i}!` );
+  }
+
+4. 100 dan katta raqamni talab qiladigan tsiklni yozing. Agar tashrifchi boshqa raqamni kiritsa, ulardan yana kiritishni so'rang.
+
+Tashrifchi 100 dan katta raqamni kiritmaguncha yoki kiritishni bekor qilmaguncha/bo'sh qatorga kirmaguncha tsikl raqamni so'rashi kerak.
+
+Bu erda tashrif buyuruvchi faqat raqamlarni kiritadi deb taxmin qilishimiz mumkin. Ushbu vazifada raqamli bo'lmagan kiritish uchun maxsus ishlov berishni amalga oshirishning hojati yo'q.
+
+5. 2 dan n gacha bo'lgan oraliqda tub sonlarni chiqaradigan kodni yozing
